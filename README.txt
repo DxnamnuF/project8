@@ -16,4 +16,4 @@ in theclient windows and server logs
 [HANDSHAKE] Handshake successful. Accept key: hello, kitty
 [INFO] Handshake with client 127.0.0.1:48604 succeeded."
 in the first window.
-
+Then you can enter some commands in client window. ping zwraca pong, time - aktualny czas, a close - kończy połączenie. Server loguje otrzymane komandy, zamyka połączenie w przypadku close i loguje koniec połączenia.
